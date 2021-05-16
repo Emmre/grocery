@@ -1,0 +1,34 @@
+.cardImage {
+  max-height: 370px;
+}
+
+.cardTitle {
+  font-size: 15px;
+  font-weight: bold;
+  height: 36px;
+}
+
+.cardText {
+  text-align: center;
+}
+
+.cardLink {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: cornflowerblue !important;
+}
+
+.item {
+  width: auto;
+  border-radius: 50% !important;
+  background-color: cornflowerblue !important;
+}
+
+.buttonGroup {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
